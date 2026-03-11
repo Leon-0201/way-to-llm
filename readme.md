@@ -10,6 +10,7 @@
 ## 1.2 训练技术基础
 - 混合精度训练（FP16、BF16、AMP）
 - 梯度累积
+- 梯度检查点（Gradient Checkpointing）
 - 检查点机制（Checkpoint、训练中断与恢复）
 - 数据加载与预处理
 
